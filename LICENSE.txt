@@ -1,0 +1,14 @@
+Creative Commons Attribution-NonCommercial 4.0 International Public License
+
+This repository contains academic material associated with the following publication:
+
+"A Multimodal Fusion Framework for Bridge Defect Detection with Cross-Verification"   
+Published at the 2024 IEEE International Conference on Big Data (Big Data)  
+DOI: https://doi.org/10.1109/BigData62323.2024.10825867
+
+License Summary:
+You are free to share and adapt the materials in this repository for non-commercial research and educational purposes, with appropriate attribution.
+
+Commercial use is strictly prohibited without written permission.
+
+Full license text: https://creativecommons.org/licenses/by-nc/4.0/legalcode

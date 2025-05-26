@@ -1,0 +1,12 @@
+NOTICE
+
+This repository accompanies the peer-reviewed research paper:
+
+"A Multimodal Fusion Framework for Bridge Defect Detection with Cross-Verification"
+Published by IEEE at the 2024 IEEE International Conference on Big Data  
+DOI: https://doi.org/10.1109/BigData62323.2024.10825867
+
+The complete source code used in the publication is not publicly available due to IEEE copyright and intellectual property policies. This repository is for illustrative, academic, and non-commercial use only.
+
+For permission to access the full code or to collaborate, please contact the corresponding author:  
+📧 Email: rrachuri@gmu.edu
