@@ -61,3 +61,16 @@ pip install -r requirements.txt
 
 # 3. Run an end‑to‑end demo
 python scripts/run_demo.py --config configs/i220_jackson.yaml
+```
+---
+
+## 📘 License & Citation
+
+This repository is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).  
+Commercial use is not permitted.
+
+If you use this work in your research, please cite:
+
+> "A Multimodal Fusion Framework for Bridge Defect Detection with Cross-Verification,"  
+> IEEE International Conference on Big Data (Big Data), 2024.  
+> DOI: [https://doi.org/10.1109/BigData62323.2024.10825867](https://doi.org/10.1109/BigData62323.2024.10825867)
