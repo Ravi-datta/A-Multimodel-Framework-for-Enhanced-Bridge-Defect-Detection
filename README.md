@@ -1,6 +1,7 @@
 # 🏗️ Multimodal Fusion Framework for Bridge Defect Detection with Cross‑Verification
-R. D. Rachuri, D. Liao, S. Sarikonda, and D. V. Kondur. "A Multimodal Fusion Framework for Bridge Defect Detection with Cross-Verification," in 2024 IEEE International Conference on Big Data, Washington, DC, USA, 2024. [DOI](https://doi.org/10.1109/BigData62323.2024.10825867) • [arXiv](https://arxiv.org/abs/2412.17968)
 
+### Ravi Datta Rachuri, Duoduo Liao, S. Sarikonda, and D. V. Kondur. "A Multimodal Fusion Framework for Bridge Defect Detection with Cross-Verification," in 2024 IEEE International Conference on Big Data, Washington, DC, USA, 2024. [DOI](https://doi.org/10.1109/BigData62323.2024.10825867) • [arXiv](https://arxiv.org/abs/2412.17968)
+---
 *A reproducible research codebase that fuses Impact Echo (IE) and Ultrasonic Surface Wave (USW) data, augments it with image processing, and pinpoints bridge‑deck defects with an F1‑score of 0.83.*
 
 ---
